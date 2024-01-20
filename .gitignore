@@ -1,0 +1,15 @@
+.env
+db.sqlite3
+media/
+static/
+
+__pycache__
+*.pyc
+*.pyo
+
+.vscode
+.idea
+
+*.log
+Pipfile
+Pipfile.lock
